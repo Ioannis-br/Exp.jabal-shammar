@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "[+1 Gold] from each Desert Tile",
+		"unique": "[+1 Gold] from every Desert tile in all cities",
 		"umiqueName": "Desert Warriors",
 		"cities": ["Ha'il","Tabuk","Al Jawf","Al Qasseem","Riyadh","Al Kahfah","Hurjah","Badanah","Tayma",
 			"Turayf","Sakakah"]
