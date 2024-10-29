@@ -3,6 +3,7 @@
         {
 		"name": "Mud Fortress",
 		"uniqueTo": "Emirate of Jabal Shammar",
+		"replaces": "fort",
 		"terrainsCanBeBuiltOn": ["Desert","Flood plains","Hill"],
 		"food": 2,
 		"production": 1,
