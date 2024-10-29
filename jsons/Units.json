@@ -12,6 +12,7 @@
 		"requiredTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"]
+		"unitIcon": "Camel Musketeer.png"
 		
 	}
 ]
