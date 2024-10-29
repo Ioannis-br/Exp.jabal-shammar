@@ -10,7 +10,7 @@
 		"range": 2,
 		"cost": 500,
 		"requiredTech": "Gunpowder",
-		"requiredResource": "Iron, Horses",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"]
 		
 	}
