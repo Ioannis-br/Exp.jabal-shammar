@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"umiqueName": "Lords of the Desert",
-		"unique": ["[+1 Gold] from every [Desert] tile [in all cities]", "[+1 Food] from [Desert] tiles [in the capital]",
-		"cities": ["Ha'il","Tabuk","Al Jawf","Al Qasseem","Riyadh","Al Kahfah","Hurjah","Badanah","Tayma", "Turayf","Sakakah"]
+		"unique": "[+1 Gold] from every [Desert] tile [in all cities]",
+		"cities": ["Ha'il", "Tabuk", "Al Jawf", "Al Qasseem", "Riyadh", "Al Kahfah", "Hurjah", "Badanah", "Tayma", "Turayf","Sakakah"]
 	}
 ]
