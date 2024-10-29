@@ -4,7 +4,7 @@
 		"leaderName": "Muhammad bin Abdullah al Rashid",
 		"adjective": ["Rashidi"],
 		"startBias": ["Desert"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Salam Aleykum!",
 		"startIntroPart2": "The great Emirate of Arabia",
@@ -29,7 +29,8 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "Desert Warriors",
+		"unique": "[+1 Gold] from each Desert Tile",
+		"umiqueName": "Desert Warriors",
 		"cities": ["Ha'il","Tabuk","Al Jawf","Al Qasseem","Riyadh","Al Kahfah","Hurjah","Badanah","Tayma",
 			"Turayf","Sakakah"]
 	}
